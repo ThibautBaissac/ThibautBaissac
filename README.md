@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Thibaut (@ThibautBaissac)
 - 👀 I’m interested in web development (backend)
-- 🌱 I’m currently learning to code at Le Wagon
-- 💞️ I’m looking to collaborate on projects with social or ecological focus
+- 🌱 I learnt to code at Le Wagon
+- 💞️ I’m looking to collaborate on projects with human or ecological focus
 - 📫 You can reach me here: tbaissac@gmail.com
