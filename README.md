@@ -2,4 +2,4 @@
 - 👀 I’m a fullstack developper @fresqueduclimat
 - 🌱 I learnt to code at Le Wagon
 - 💞️ I’m always looking to collaborate on projects with human or ecological focus
-- 📫 You can reach me here: tbaissac@gmail.com
+- 📫 You can reach me here: tbaissac@proton.me
